@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirebaseRealtimeDatabase</string>
+    <string name="action_settings">Settings</string>
+    <string name="EnterName">Enter Name</string>
+    <string name="AddArtist">Add Artist</string>
+    <array name="genres">
+        <item>Rock</item>
+        <item>Sufi</item>
+        <item>Pop</item>
+        <item>folk</item>
+    </array>
+</resources>
